@@ -1,0 +1,789 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mehdi Falou//Sorties Jeux Switch 2 (Juillet-Décembre 2026)//FR
+
+BEGIN:VEVENT
+UID:HighonLife2@2026-07-01
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260701
+SUMMARY:🎮 High on Life 2 👽
+DESCRIPTION:Sortie de High on Life 2 sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AttackOnTitan3@2026-07-01
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260701
+SUMMARY:🎮 Attack on Titan 3 (AOT3) ⚔️🗡️
+DESCRIPTION:Sortie de Attack on Titan 3 sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RhythmParadiseGroove@2026-07-02
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260702
+SUMMARY:🎮 Rhythm Paradise Groove 🎵
+DESCRIPTION:Sortie de Rhythm Paradise Groove sur Switch (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:GunvoltChroniclesLuminousAvengerIX1Plus2DualCollection@2026-07-09
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🎮 Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection ⚡🗡️
+DESCRIPTION:Sortie de Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection sur Switch, Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:GranblueFantasyRelinkEndlessRagnarok@2026-07-09
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260709
+SUMMARY:🎮 Granblue Fantasy: Relink – Endless Ragnarok ⚔️
+DESCRIPTION:Sortie de Granblue Fantasy: Relink – Endless Ragnarok sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MousePIForHire@2026-07-10
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260710
+SUMMARY:🎮 Mouse P.I. For Hire 🐭🔫
+DESCRIPTION:Sortie de Mouse P.I. For Hire sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DigimonStoryTimeStranger@2026-07-10
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260710
+SUMMARY:🎮 Digimon Story Time Stranger 🦖
+DESCRIPTION:Sortie de Digimon Story Time Stranger sur Switch (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Dtopia@2026-07-14
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260714
+SUMMARY:🎮 D-topia 🌌
+DESCRIPTION:Sortie de D-topia sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FitnessBoxing3NintendoSwitch2Edition@2026-07-16
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🎮 Fitness Boxing 3 – Nintendo Switch 2 Edition 🥊
+DESCRIPTION:Sortie de Fitness Boxing 3 – Nintendo Switch 2 Edition sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HeaveHo2@2026-07-16
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🎮 Heave Ho 2 🤝
+DESCRIPTION:Sortie de Heave Ho 2 sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:InstantSports2@2026-07-16
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🎮 Instant Sports 2 ⚽
+DESCRIPTION:Sortie de Instant Sports 2 sur Switch (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Ratatan@2026-07-16
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🎮 Ratatan 🎵
+DESCRIPTION:Sortie de Ratatan sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:KyotoXanadu@2026-07-16
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🎮 Kyoto Xanadu 🏯👻
+DESCRIPTION:Sortie de Kyoto Xanadu sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:BluePrinceSwitch2ExclusiveEdition@2026-07-20
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260720
+SUMMARY:🎮 Blue Prince – Switch 2 Exclusive Edition 🔷🏰
+DESCRIPTION:Sortie de Blue Prince Switch 2 Exclusive Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:SplatoonRaiders@2026-07-23
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:🎮 Splatoon Raiders 🦑
+DESCRIPTION:Sortie de Splatoon Raiders sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MomentoCozyRoomDecorator@2026-07-17
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260717
+SUMMARY:🎮 Momento: A Cozy Room Decorator 🛋️✨
+DESCRIPTION:Sortie de Momento: A Cozy Room Decorator sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DisgaeaMayhemDeluxeEdition@2026-07-23
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260723
+SUMMARY:🎮 Disgaea Mayhem Deluxe Edition 👹⚔️
+DESCRIPTION:Sortie de Disgaea Mayhem Deluxe Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:XenobladeChronicles2NintendoSwitch2Edition@2026-07-30
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+SUMMARY:🎮 Xenoblade Chronicles 2 – Nintendo Switch 2 Edition 🗡️
+DESCRIPTION:Sortie de Xenoblade Chronicles 2 – Nintendo Switch 2 Edition sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TruxtonExtremeThunderMasterEdition@2026-07-31
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260731
+SUMMARY:🎮 Truxton Extreme: Thunder Master Edition 🚀💥
+DESCRIPTION:Sortie de Truxton Extreme: Thunder Master Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:BigWalk@2026-08-04
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+SUMMARY:🎮 Big Walk 🚶
+DESCRIPTION:Sortie de Big Walk sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:StarshipTroopersUltimateBugWar@2026-08-04
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+SUMMARY:🎮 Starship Troopers: Ultimate Bug War 🐛🔫
+DESCRIPTION:Sortie de Starship Troopers: Ultimate Bug War sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:LiesofPCompleteEdition@2026-08-06
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+SUMMARY:🎮 Lies of P: Complete Edition 🎭
+DESCRIPTION:Sortie de Lies of P: Complete Edition sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ElderScrollsIVOblivionRemastered@2026-08-11
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260811
+SUMMARY:🎮 The Elder Scrolls IV: Oblivion Remastered – Physical Deluxe Edition 🗡️🏔️
+DESCRIPTION:Sortie de The Elder Scrolls IV: Oblivion Remastered – Physical Deluxe Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TheWitchsBakery@2026-08-20
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:🎮 The Witch's Bakery 🧙‍♀️🍞
+DESCRIPTION:Sortie de The Witch's Bakery sur Switch, Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:BrigandineAbyssDeluxeEdition@2026-08-27
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260827
+SUMMARY:🎮 Brigandine Abyss – Deluxe Edition 🛡️🐉
+DESCRIPTION:Sortie de Brigandine Abyss – Deluxe Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MetalGearSolidMasterCollectionVol2@2026-08-27
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260827
+SUMMARY:🎮 Metal Gear Solid: Master Collection Vol. 2 🎮
+DESCRIPTION:Sortie de Metal Gear Solid: Master Collection Vol. 2 sur Switch, Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DevilMayCry5DevilHunterEdition@2026-08-28
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 Devil May Cry 5: Devil Hunter Edition 😈🗡️
+DESCRIPTION:Sortie de Devil May Cry 5: Devil Hunter Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Wanderstop@2026-08-28
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 Wanderstop ☕🌳
+DESCRIPTION:Sortie de Wanderstop sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:SuperBombermanCollectionEdition@2026-08-28
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 Super Bomberman Collection Edition 💣🎮
+DESCRIPTION:Sortie de Super Bomberman Collection Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MoonlightPeaks@2026-08-28
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 Moonlight Peaks 🌙🧛
+DESCRIPTION:Sortie de Moonlight Peaks sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CAPTAINTSUBASA2WORLDFIGHTERS@2026-08-28
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 CAPTAIN TSUBASA 2: WORLD FIGHTERS ⚽
+DESCRIPTION:Sortie de CAPTAIN TSUBASA 2: WORLD FIGHTERS sur Switch (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ELDENRINGTarnishedEdition@2026-08-28
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎮 ELDEN RING Tarnished Edition 🏰🔥
+DESCRIPTION:Sortie de ELDEN RING Tarnished Edition sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Marsupilami2SalsaPalombia@2026-09-03
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 MARSUPILAMI 2 – Salsa Palombia 🐆🎺
+DESCRIPTION:Sortie de MARSUPILAMI 2 – Salsa Palombia sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Orbitals@2026-09-03
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 Orbitals 🚀
+DESCRIPTION:Sortie de Orbitals sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CoffeeTalkTokyo@2026-09-04
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+SUMMARY:🎮 Coffee Talk Tokyo ☕🗼
+DESCRIPTION:Sortie de Coffee Talk Tokyo sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MyHeroAcademiaAllsJustice@2026-09-04
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+SUMMARY:🎮 My Hero Academia: All's Justice 🦸‍♂️
+DESCRIPTION:Sortie de My Hero Academia: All's Justice sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TrailsFromZeroAndToAzureLimitedEdition@2026-09-10
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+SUMMARY:🎮 Trails from Zero and to Azure – Limited Edition 📘⚔️
+DESCRIPTION:Sortie de Trails from Zero and to Azure – Limited Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CallOfTheElderGodsMiskatonicEdition@2026-09-10
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+SUMMARY:🎮 Call of the Elder Gods – Miskatonic Edition 🐙📖
+DESCRIPTION:Sortie de Call of the Elder Gods – Miskatonic Edition sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:BackToTheDawn@2026-09-15
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+SUMMARY:🎮 Back to the Dawn 🔦⛓️
+DESCRIPTION:Sortie de Back to the Dawn sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DestroyAllHumans2@2026-09-15
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+SUMMARY:🎮 Destroy All Humans! 2 👽🔫
+DESCRIPTION:Sortie de Destroy All Humans! 2 sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RuneScapeDragonwilds@2026-09-15
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+SUMMARY:🎮 RuneScape: Dragonwilds 🐉
+DESCRIPTION:Sortie de RuneScape: Dragonwilds sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Absolum@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Absolum ⚔️🌑
+DESCRIPTION:Sortie de Absolum sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CuldceptBegins@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 🃏🎲 Culdcept Begins
+DESCRIPTION:Sortie de Culdcept Begins sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Trine6TogetherInTime@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Trine 6: Together in Time 🧚✨
+DESCRIPTION:Sortie de Trine 6: Together in Time sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:AnotherEdenBegins@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Another Eden Begins 🌌📖
+DESCRIPTION:Sortie de Another Eden Begins sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TrailsInTheSky2ndChapter@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Trails in the Sky 2nd Chapter ☁️⚔️
+DESCRIPTION:Sortie de Trails in the Sky 2nd Chapter sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FireEmblemFortunesWeave@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Fire Emblem: Fortune's Weave ⚔️🛡️
+DESCRIPTION:Sortie de Fire Emblem: Fortune's Weave sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:LayersOfFearFinalMasterpieceEdition@2026-09-18
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260918
+SUMMARY:🎮 Layers of Fear – Final Masterpiece Edition 😱🖼️
+DESCRIPTION:Sortie de Layers of Fear – Final Masterpiece Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:LEGOBatmanLHeritageduChevalierNoir@2026-09-18
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260918
+SUMMARY:🎮 LEGO Batman : L'Héritage du Chevalier Noir 🦇
+DESCRIPTION:Sortie de LEGO Batman : L'Héritage du Chevalier Noir sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ShinobiArtOfVengeanceDeluxe@2026-09-24
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 Shinobi: Art of Vengeance – Deluxe Edition 🥷🗡️
+DESCRIPTION:Sortie de Shinobi: Art of Vengeance – Deluxe Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FarmingCamp@2026-09-24
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 Farming Camp 🏕️🌾
+DESCRIPTION:Sortie de Farming Camp sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:GarfieldEscapeFromMonday@2026-09-24
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 Garfield: Escape from Monday 🐱😴
+DESCRIPTION:Sortie de Garfield: Escape from Monday sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DRAGONQUESTXISLesCombattantsdelaDestineeEditionultime@2026-09-24
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 DRAGON QUEST XI S : Les Combattants de la destinée – Édition ultime 🐲
+DESCRIPTION:Sortie de DRAGON QUEST XI S : Les Combattants de la destinée – Édition ultime sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HotWheelsInfiniteRush@2026-09-24
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 Hot Wheels: Infinite Rush 🚗💨
+DESCRIPTION:Sortie de Hot Wheels: Infinite Rush sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HellIsUs@2026-09-25
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+SUMMARY:🎮 Hell is Us 😈🌫️
+DESCRIPTION:Sortie de Hell is Us sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HarvestMoonEchoesOfTeradea@2026-09-25
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+SUMMARY:🎮 Harvest Moon: Echoes of Teradea 🌾🚜
+DESCRIPTION:Sortie de Harvest Moon: Echoes of Teradea sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:OnimushaWayoftheSword@2026-09-25
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+SUMMARY:🎮 Onimusha: Way of the Sword 🗡️👻
+DESCRIPTION:Sortie de Onimusha: Way of the Sword sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:UnderTheIsland@2026-09-28
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260928
+SUMMARY:🎮 Under the Island 🏝️🔦
+DESCRIPTION:Sortie de Under the Island sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Solarpunk@2026-09-29
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Solarpunk 🌿🏝️
+DESCRIPTION:Sortie de Solarpunk sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MinecraftDungeonsII@2026-09-29
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 Minecraft Dungeons II ⛏️🧟
+DESCRIPTION:Sortie de Minecraft Dungeons II sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HouseFlipper2SakuraDLC@2026-09-30
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 House Flipper 2 + Sakura DLC 🏠🔨
+DESCRIPTION:Sortie de House Flipper 2 + Sakura DLC sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:KongSurvivorInstinct@2026-09-30
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 KONG: Survivor Instinct 🦍🏝️
+DESCRIPTION:Sortie de KONG: Survivor Instinct sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DynastyWarriors3CompleteEdition@2026-10-01
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🎮 Dynasty Warriors 3 – Complete Edition ⚔️🐉
+DESCRIPTION:Sortie de Dynasty Warriors 3 – Complete Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RaymanLegendsRetold@2026-10-01
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:🎮 Rayman Legends Retold 🎨🐭
+DESCRIPTION:Sortie de Rayman Legends Retold sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DisneyEpicMickeyRebrushedNintendoSwitch2Edition@2026-10-06
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261006
+SUMMARY:🎮 Disney Epic Mickey: Rebrushed – Nintendo Switch 2 Edition 🖌️🐭
+DESCRIPTION:Sortie de Disney Epic Mickey: Rebrushed – Nintendo Switch 2 Edition sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DaveTheDiverEditions@2026-10-08
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎮 Dave the Diver – Complete/Collector Edition 🤿🍣
+DESCRIPTION:Sortie de Dave the Diver – Complete Edition et Collector Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:KINGDOMHEARTSCOLLECTIONI~III@2026-10-08
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎮 KINGDOM HEARTS Collection [I~III] ❤️🔑
+DESCRIPTION:Sortie de KINGDOM HEARTS Collection [I~III] sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DragonsDogma2DarkArisen@2026-10-09
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261009
+SUMMARY:🎮 Dragon's Dogma 2: Dark Arisen 🐉🌑
+DESCRIPTION:Sortie de Dragon's Dogma 2: Dark Arisen sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Warhammer40000RogueTraderVoidfarerEdition@2026-10-15
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 Warhammer 40,000: Rogue Trader – Voidfarer Edition ⚔️🚀
+DESCRIPTION:Sortie de Warhammer 40,000: Rogue Trader – Voidfarer Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ToyStoryRetroRoundupToyStory3CompleteEdition@2026-10-15
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 Toy Story: Retro Roundup & Toy Story 3: Complete Edition 🧸🤠
+DESCRIPTION:Sortie de Toy Story: Retro Roundup & Toy Story 3: Complete Edition sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HollowKnightSilksong@2026-10-16
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🎮 Hollow Knight: Silksong 🕷️⚔️
+DESCRIPTION:Sortie de Hollow Knight: Silksong sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HollowKnight@2026-10-16
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🎮 Hollow Knight 🕳️🗡️
+DESCRIPTION:Sortie de Hollow Knight sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TalesofEterniaRemastered@2026-10-16
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🎮 Tales of Eternia Remastered 📖⚔️
+DESCRIPTION:Sortie de Tales of Eternia Remastered sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CottonReboot@2026-10-22
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎮 Cotton Reboot! 🐱🌸
+DESCRIPTION:Sortie de Cotton Reboot! sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FINALFANTASYRESONANCE@2026-10-22
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎮 FINAL FANTASY RESONANCE 🔮💎
+DESCRIPTION:Sortie de FINAL FANTASY RESONANCE sur Switch, Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:NintendoSwitchSportsResort@2026-10-22
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎮 Nintendo Switch Sports Resort 🏖️⛳
+DESCRIPTION:Sortie de Nintendo Switch Sports Resort sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CallofDutyModernWarfare4@2026-10-23
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261023
+SUMMARY:🎮 Call of Duty: Modern Warfare 4 🎖️💥
+DESCRIPTION:Sortie de Call of Duty: Modern Warfare 4 sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ONEPIECEGrandGourmet@2026-10-23
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261023
+SUMMARY:🎮 ONE PIECE: Grand Gourmet 🍜🏴‍☠️
+DESCRIPTION:Sortie de ONE PIECE: Grand Gourmet sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:SteinsGateReBoot@2026-10-29
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎮 ⏳ Steins;Gate: Re:Boot 🧪
+DESCRIPTION:Sortie de Steins;Gate: Re:Boot sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DogManBarkInAction@2026-10-27
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261027
+SUMMARY:🎮 Dog Man: Bark in Action 🐶🐕
+DESCRIPTION:Sortie de Dog Man: Bark in Action sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HelloKittyPartyLand@2026-10-29
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+SUMMARY:🎮 Hello Kitty Party Land 🎀🐱
+DESCRIPTION:Sortie de Hello Kitty Party Land sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ObserverLimitedEdition@2026-10-30
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+SUMMARY:🎮 Observer – Limited Edition 👁️🌆
+DESCRIPTION:Sortie de Observer – Limited Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:VillageInTheShadeDeluxeEdition@2026-10-31
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261031
+SUMMARY:🎮 Village in the Shade – Deluxe Edition 🏘️🌙
+DESCRIPTION:Sortie de Village in the Shade – Deluxe Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:GodzillaDestroyAllMonstersMelee@2026-11-03
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261103
+SUMMARY:🎮 Godzilla Destroy All Monsters Melee 🦖🌆
+DESCRIPTION:Sortie de Godzilla Destroy All Monsters Melee sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Gothic3Classic@2026-11-24
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:🎮 Gothic 3 Classic ⚔️🏰
+DESCRIPTION:Sortie de Gothic 3 Classic sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MetaphorReFantazio@2026-11-12
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎮 Metaphor: ReFantazio 🎭🌌
+DESCRIPTION:Sortie de Metaphor: ReFantazio sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:LordsOfTheFallen2@2026-11-30
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+SUMMARY:🎮 Lords of the Fallen 2 ⚔️🔥
+DESCRIPTION:Sortie de Lords of the Fallen 2 sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Danganronpa2x2@2026-11-30
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261130
+SUMMARY:🎮 Danganronpa 2×2 🔪🏝️
+DESCRIPTION:Sortie de Danganronpa 2×2 sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DRAGONQUESTMONSTERSLeRoyaumedeBoisfletri@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 DRAGON QUEST MONSTERS : Le royaume de Boisflétri 🐉🌳
+DESCRIPTION:Sortie de DRAGON QUEST MONSTERS : Le royaume de Boisflétri sur Switch, Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:BanditTrap@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 Bandit Trap 🏠🎯
+DESCRIPTION:Sortie de Bandit Trap sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:XenobladeChronicles3NintendoSwitch2Edition@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 Xenoblade Chronicles 3 – Nintendo Switch 2 Edition 🌌⚔️
+DESCRIPTION:Sortie de Xenoblade Chronicles 3 – Nintendo Switch 2 Edition sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:SquirrelWithAGun@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 Squirrel With A Gun 🐿️🔫
+DESCRIPTION:Sortie de Squirrel With A Gun sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:007FirstLightSpecialistEdition@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 007 First Light – Specialist Edition 🕵️🔫
+DESCRIPTION:Sortie de 007 First Light – Specialist Edition sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Shenmue3Enhanced@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 Shenmue 3: Enhanced 🥋🏮
+DESCRIPTION:Sortie de Shenmue 3: Enhanced sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TrailsZeroAzureDeluxeEdition@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 Trails Zero + Azure – Deluxe Edition ☁️⚔️
+DESCRIPTION:Sortie de Trails Zero + Azure – Deluxe Edition sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RTypeDimensionsIII@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 R-Type Dimensions III 🚀💥
+DESCRIPTION:Sortie de R-Type Dimensions III sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RemotheredRedNunsLegacyDeluxe@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 Remothered: Red Nun's Legacy – Deluxe 😨⛪
+DESCRIPTION:Sortie de Remothered: Red Nun's Legacy – Deluxe sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:BlueysHappySnapsDeluxe@2026-12-31
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20261231
+SUMMARY:🎮 Bluey's Happy Snaps – Deluxe 📸🐶
+DESCRIPTION:Sortie de Bluey's Happy Snaps – Deluxe sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+END:VCALENDAR
