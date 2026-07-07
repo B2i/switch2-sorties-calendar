@@ -53,6 +53,8 @@ CHOCOBONPLAN_PAGES = [
 NINTENDO_BASE_URL = "https://www.nintendo.com/fr-fr/Rechercher/Rechercher-299117.html?f=147394-14-73"
 NINTENDO_MAX_PAGES = 6  # s'arrête plus tôt si une page ne contient plus de résultats
 
+SWITCH_ACTU_URL = "https://www.switch-actu.fr/calendrier-sorties/"
+
 MONTHS_FR = {
     "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5,
     "juin": 6, "juillet": 7, "août": 8, "aout": 8, "septembre": 9,
@@ -243,6 +245,72 @@ def scrape_nintendo_fr():
     return events
 
 
+def scrape_switch_actu():
+    """
+    Scrape la page 'Agenda des sorties' de switch-actu.fr. Contrairement à
+    nintendo.com, cette page est un WordPress classique rendu côté serveur
+    (pas de JavaScript à exécuter), donc un simple requests + BeautifulSoup
+    suffit.
+
+    Structure observée pour chaque jeu : un lien vers
+    /calendrier-sorties/jeux/<slug>/ dont le texte contient le titre (en
+    double), le(s) genre(s), la/les plateforme(s), et se termine par
+    "Date de sortie : 9 juillet 2026" (ou juste une année, ou "Inconnue"
+    pour les jeux sans date connue — ceux-ci sont ignorés).
+    """
+    events = []
+    try:
+        resp = requests.get(SWITCH_ACTU_URL, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"[switch-actu] Erreur de récupération : {e}", file=sys.stderr)
+        return events
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+    links = soup.select('a[href*="/calendrier-sorties/jeux/"]')
+
+    seen = set()
+    for link in links:
+        text = link.get_text(" ", strip=True)
+        if "Date de sortie" not in text:
+            continue
+
+        date_part = text.split("Date de sortie", 1)[1].lstrip(" :")
+        date = parse_date_from_text(date_part)
+        if not date:
+            # Année seule, ou "Inconnue" : pas assez précis pour un
+            # événement de calendrier, on ignore.
+            continue
+
+        leading = text.split("Genre", 1)[0].strip()
+        n = len(leading)
+        half = n // 2
+        if n % 2 == 0 and leading[:half].strip() == leading[half:].strip():
+            title = leading[:half].strip()
+        else:
+            title = leading.strip()
+        title = clean_title(title)
+        if not title or len(title) < 2 or len(title) > 120:
+            continue
+
+        # Plateforme (best-effort, à partir du texte visible)
+        if "Switch 2" in text and "Switch" in text.replace("Switch 2", ""):
+            platform = "Switch, Switch 2"
+        elif "Switch 2" in text:
+            platform = "Switch 2"
+        else:
+            platform = "Switch"
+
+        key = (title.lower(), date.date())
+        if key in seen:
+            continue
+        seen.add(key)
+        events.append({"title": title, "date": date, "platform": platform})
+
+    print(f"[switch-actu] {len(events)} sortie(s) détectée(s)")
+    return events
+
+
 def load_existing_events():
     """Relit le fichier ICS existant (s'il existe) pour ne jamais perdre de données."""
     events = {}
@@ -341,6 +409,7 @@ def main():
     for url in CHOCOBONPLAN_PAGES:
         scraped.extend(scrape_chocobonplan(url))
     scraped.extend(scrape_nintendo_fr())
+    scraped.extend(scrape_switch_actu())
 
     merged, newly_added = merge_events(existing, scraped)
     write_ics(merged)
