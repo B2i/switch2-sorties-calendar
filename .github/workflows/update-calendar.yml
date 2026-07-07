@@ -37,14 +37,22 @@ jobs:
           git diff --cached --quiet || git commit -m "Mise à jour automatique du calendrier Switch"
           git push
 
-      - name: Notifier les nouveautés via ntfy.sh
-        if: hashFiles('new_events.txt') != ''
+      - name: Notifier le résultat via ntfy.sh
+        if: always()
         run: |
-          MESSAGE=$(cat new_events.txt)
-          COUNT=$(wc -l < new_events.txt)
-          curl -s \
-            -H "Title: 🎮 $COUNT nouvelle(s) sortie(s) Switch" \
-            -H "Priority: default" \
-            -H "Tags: video_game" \
-            -d "$MESSAGE" \
-            "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
+          if [ -s new_events.txt ]; then
+            COUNT=$(wc -l < new_events.txt)
+            curl -s \
+              -H "Title: 🎮 $COUNT nouvelle(s) sortie(s) Switch" \
+              -H "Priority: default" \
+              -H "Tags: video_game" \
+              -d "$(cat new_events.txt)" \
+              "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
+          else
+            curl -s \
+              -H "Title: ✅ Calendrier Switch à jour" \
+              -H "Priority: low" \
+              -H "Tags: white_check_mark" \
+              -d "Le workflow s'est bien déroulé, aucune nouvelle sortie détectée." \
+              "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
+          fi
