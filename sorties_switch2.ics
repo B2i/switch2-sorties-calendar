@@ -107,6 +107,14 @@ DESCRIPTION:Sortie de Kyoto Xanadu sur Switch 2
 END:VEVENT
 
 BEGIN:VEVENT
+UID:AssolutoRacing@2026-07-16
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260716
+SUMMARY:🎮 Assoluto Racing
+DESCRIPTION:Sortie de Assoluto Racing sur Switch (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:MomentoCozyRoomDecorator@2026-07-17
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260717
@@ -184,6 +192,14 @@ DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260811
 SUMMARY:🎮 The Elder Scrolls IV: Oblivion Remastered – Physical Deluxe Edition 🗡️🏔️
 DESCRIPTION:Sortie de The Elder Scrolls IV: Oblivion Remastered – Physical Deluxe Edition sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TheElderScrollsIVOblivionRemastered@2026-08-11
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260811
+SUMMARY:🎮 The Elder Scrolls IV: Oblivion Remastered
+DESCRIPTION:Sortie de The Elder Scrolls IV: Oblivion Remastered sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -291,6 +307,14 @@ DESCRIPTION:Sortie de My Hero Academia: All's Justice sur Switch 2 (Version phys
 END:VEVENT
 
 BEGIN:VEVENT
+UID:OnimushaWayoftheSword@2026-09-04
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+SUMMARY:🎮 Onimusha: Way of the Sword
+DESCRIPTION:Sortie de Onimusha: Way of the Sword sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:TrailsFromZeroAndToAzureLimitedEdition@2026-09-10
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260910
@@ -395,6 +419,14 @@ DESCRIPTION:Sortie de LEGO Batman : L'Héritage du Chevalier Noir sur Switch 2 (
 END:VEVENT
 
 BEGIN:VEVENT
+UID:LEGOBatmanLHritageduChevalierNoir@2026-09-18
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260918
+SUMMARY:🎮 LEGO Batman : L’Héritage du Chevalier Noir
+DESCRIPTION:Sortie de LEGO Batman : L’Héritage du Chevalier Noir sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:ShinobiArtOfVengeanceDeluxe@2026-09-24
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
@@ -432,6 +464,14 @@ DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260924
 SUMMARY:🎮 Hot Wheels: Infinite Rush 🚗💨
 DESCRIPTION:Sortie de Hot Wheels: Infinite Rush sur Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DRAGONQUESTXISLesCombattantsdeladestineditionultime@2026-09-24
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260924
+SUMMARY:🎮 DRAGON QUEST XI S : Les Combattants de la destinée – Édition ultime
+DESCRIPTION:Sortie de DRAGON QUEST XI S : Les Combattants de la destinée – Édition ultime sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -536,6 +576,14 @@ DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261008
 SUMMARY:🎮 KINGDOM HEARTS Collection [I~III] ❤️🔑
 DESCRIPTION:Sortie de KINGDOM HEARTS Collection [I~III] sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:KINGDOMHEARTSCollectionIIII@2026-10-08
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261008
+SUMMARY:🎮 KINGDOM HEARTS Collection [I~III]
+DESCRIPTION:Sortie de KINGDOM HEARTS Collection [I~III] sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -728,6 +776,14 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261203
 SUMMARY:🎮 Xenoblade Chronicles 3 – Nintendo Switch 2 Edition 🌌⚔️
 DESCRIPTION:Sortie de Xenoblade Chronicles 3 – Nintendo Switch 2 Edition sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DRAGONQUESTMONSTERSLeroyaumedeBoisfltri@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 DRAGON QUEST MONSTERS : Le royaume de Boisflétri
+DESCRIPTION:Sortie de DRAGON QUEST MONSTERS : Le royaume de Boisflétri sur Switch, Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
