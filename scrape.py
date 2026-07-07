@@ -24,6 +24,7 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 ICS_PATH = Path(__file__).parent / "sorties_switch2.ics"
 
@@ -45,6 +46,12 @@ CHOCOBONPLAN_PAGES = [
     "https://chocobonplan.com/bons-plans/c/precommandes-jeux-switch-2/page/3/?orderby=datefin",
     "https://chocobonplan.com/bons-plans/c/precommandes-jeux-switch-2/page/4/?orderby=datefin",
 ]
+
+# Page officielle Nintendo "Bientôt disponibles" (filtre f=147394-14-73), paginée.
+# Cette page charge son contenu en JavaScript : on utilise Playwright pour
+# la rendre comme un vrai navigateur avant de l'analyser.
+NINTENDO_BASE_URL = "https://www.nintendo.com/fr-fr/Rechercher/Rechercher-299117.html?f=147394-14-73"
+NINTENDO_MAX_PAGES = 6  # s'arrête plus tôt si une page ne contient plus de résultats
 
 MONTHS_FR = {
     "janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5,
@@ -173,6 +180,69 @@ def scrape_chocobonplan(url):
     return events
 
 
+def scrape_nintendo_fr():
+    """
+    Scrape la page officielle Nintendo "Bientôt disponibles" (fr-fr).
+    Cette page est une SPA : le contenu réel n'existe qu'après exécution du
+    JavaScript, d'où l'usage de Playwright (navigateur headless) plutôt que
+    de simples requêtes HTTP.
+    """
+    events = []
+    seen = set()
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(user_agent=HEADERS["User-Agent"])
+
+        for page_num in range(1, NINTENDO_MAX_PAGES + 1):
+            url = NINTENDO_BASE_URL if page_num == 1 else f"{NINTENDO_BASE_URL}&p={page_num}"
+            try:
+                page.goto(url, wait_until="networkidle", timeout=30000)
+                # laisse le temps au JS de remplir les gabarits {{pageTitle}}, etc.
+                page.wait_for_timeout(2000)
+            except Exception as e:
+                print(f"[nintendo.com] Erreur de chargement de {url} : {e}", file=sys.stderr)
+                break
+
+            html = page.content()
+            soup = BeautifulSoup(html, "html.parser")
+
+            # Heuristique : les gabarits {{pageTitle}} / {{gameReleaseDate}} du
+            # HTML brut sont remplacés, une fois rendus, par le vrai titre et
+            # une date de la forme "Date de publication : JJ/MM/AAAA"
+            page_events_found = 0
+            for block in soup.select("li, article, div"):
+                text = block.get_text(" ", strip=True)
+                if "Date de publication" not in text or len(text) > 300:
+                    continue
+                date = parse_date_from_text(text)
+                if not date:
+                    continue
+                title_el = block.find(["h1", "h2", "h3", "h4"])
+                if not title_el:
+                    continue
+                title = clean_title(title_el.get_text(" ", strip=True))
+                if not title or len(title) < 2 or len(title) > 120:
+                    continue
+                key = (title.lower(), date.date())
+                if key in seen:
+                    continue
+                seen.add(key)
+                events.append({"title": title, "date": date, "platform": "Switch / Switch 2"})
+                page_events_found += 1
+
+            print(f"[nintendo.com] page {page_num} : {page_events_found} sortie(s) détectée(s)")
+
+            # Si une page ne remonte plus aucun résultat, on arrête la pagination
+            if page_events_found == 0:
+                break
+
+        browser.close()
+
+    print(f"[nintendo.com] {len(events)} sortie(s) au total")
+    return events
+
+
 def load_existing_events():
     """Relit le fichier ICS existant (s'il existe) pour ne jamais perdre de données."""
     events = {}
@@ -254,6 +324,7 @@ def main():
         scraped.extend(scrape_alertetgo(url))
     for url in CHOCOBONPLAN_PAGES:
         scraped.extend(scrape_chocobonplan(url))
+    scraped.extend(scrape_nintendo_fr())
 
     merged = merge_events(existing, scraped)
     write_ics(merged)
