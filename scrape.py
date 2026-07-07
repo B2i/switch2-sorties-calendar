@@ -274,9 +274,10 @@ def make_uid(title: str, date: datetime) -> str:
 def merge_events(existing, scraped):
     """Fusionne les nouvelles sorties scrapées avec celles déjà connues.
     N'écrase jamais un événement existant (qui peut avoir été enrichi/corrigé
-    manuellement) ; ajoute uniquement les nouveautés."""
+    manuellement) ; ajoute uniquement les nouveautés.
+    Retourne (dict fusionné, liste des nouveautés ajoutées)."""
     merged = dict(existing)
-    added = 0
+    newly_added = []
     for item in scraped:
         uid = make_uid(item["title"], item["date"])
         if uid in merged:
@@ -286,9 +287,9 @@ def merge_events(existing, scraped):
             "summary": f"🎮 {item['title']}",
             "description": f"Sortie de {item['title']} sur {item['platform']} (détecté automatiquement)",
         }
-        added += 1
-    print(f"{added} nouvelle(s) sortie(s) ajoutée(s) par le scraper")
-    return merged
+        newly_added.append(item)
+    print(f"{len(newly_added)} nouvelle(s) sortie(s) ajoutée(s) par le scraper")
+    return merged, newly_added
 
 
 def write_ics(events: dict):
@@ -315,6 +316,21 @@ def write_ics(events: dict):
     print(f"Fichier écrit : {ICS_PATH} ({len(events)} événements)")
 
 
+def write_new_events_file(newly_added):
+    """Écrit un fichier texte listant les nouveautés, lu ensuite par le
+    workflow GitHub Actions pour construire la notification ntfy.sh.
+    Le fichier est vide (ou absent) s'il n'y a rien de nouveau."""
+    path = Path(__file__).parent / "new_events.txt"
+    if not newly_added:
+        if path.exists():
+            path.unlink()
+        return
+    lines = []
+    for item in sorted(newly_added, key=lambda i: i["date"]):
+        lines.append(f"{item['date'].strftime('%d/%m/%Y')} — {item['title']} ({item['platform']})")
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
 def main():
     existing = load_existing_events()
     print(f"{len(existing)} événement(s) déjà présents dans le fichier")
@@ -326,8 +342,9 @@ def main():
         scraped.extend(scrape_chocobonplan(url))
     scraped.extend(scrape_nintendo_fr())
 
-    merged = merge_events(existing, scraped)
+    merged, newly_added = merge_events(existing, scraped)
     write_ics(merged)
+    write_new_events_file(newly_added)
 
 
 if __name__ == "__main__":
