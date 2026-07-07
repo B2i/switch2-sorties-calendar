@@ -36,3 +36,15 @@ jobs:
           git add sorties_switch2.ics
           git diff --cached --quiet || git commit -m "Mise à jour automatique du calendrier Switch"
           git push
+
+      - name: Notifier les nouveautés via ntfy.sh
+        if: hashFiles('new_events.txt') != ''
+        run: |
+          MESSAGE=$(cat new_events.txt)
+          COUNT=$(wc -l < new_events.txt)
+          curl -s \
+            -H "Title: 🎮 $COUNT nouvelle(s) sortie(s) Switch" \
+            -H "Priority: default" \
+            -H "Tags: video_game" \
+            -d "$MESSAGE" \
+            "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
