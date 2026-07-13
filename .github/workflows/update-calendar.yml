@@ -41,16 +41,16 @@ jobs:
         if: always()
         run: |
           if [ -s new_events.txt ]; then
-            COUNT=$(wc -l < new_events.txt)
+            COUNT=$(grep -c . new_events.txt)
             curl -s \
-              -H "Title: 🎮 $COUNT nouvelle(s) sortie(s) Switch" \
+              -H "Title: $COUNT nouvelle(s) sortie(s) Switch" \
               -H "Priority: default" \
               -H "Tags: video_game" \
               -d "$(cat new_events.txt)" \
               "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}"
           else
             curl -s \
-              -H "Title: ✅ Calendrier Switch à jour" \
+              -H "Title: Calendrier Switch à jour" \
               -H "Priority: low" \
               -H "Tags: white_check_mark" \
               -d "Le workflow s'est bien déroulé, aucune nouvelle sortie détectée." \
