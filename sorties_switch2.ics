@@ -155,6 +155,22 @@ DESCRIPTION:Sortie de Xenoblade Chronicles 2 – Nintendo Switch 2 Edition sur S
 END:VEVENT
 
 BEGIN:VEVENT
+UID:JurassicWorldEvolution2CompleteEdition@2026-07-30
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+SUMMARY:🎮 Jurassic World Evolution 2: Complete Edition
+DESCRIPTION:Sortie de Jurassic World Evolution 2: Complete Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ValkyrieSaga@2026-07-30
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260730
+SUMMARY:🎮 Valkyrie Saga
+DESCRIPTION:Sortie de Valkyrie Saga sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:TruxtonExtremeThunderMasterEdition@2026-07-31
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260731
@@ -328,6 +344,14 @@ DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260910
 SUMMARY:🎮 Call of the Elder Gods – Miskatonic Edition 🐙📖
 DESCRIPTION:Sortie de Call of the Elder Gods – Miskatonic Edition sur Switch
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HotWheelsInfiniteRush@2026-09-10
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+SUMMARY:🎮 Hot Wheels: Infinite Rush
+DESCRIPTION:Sortie de Hot Wheels: Infinite Rush sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -616,6 +640,14 @@ DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261015
 SUMMARY:🎮 Toy Story: Retro Roundup & Toy Story 3: Complete Edition 🧸🤠
 DESCRIPTION:Sortie de Toy Story: Retro Roundup & Toy Story 3: Complete Edition sur Switch, Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:CastlevaniaBelmontsCurse@2026-10-15
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 Castlevania: Belmont’s Curse
+DESCRIPTION:Sortie de Castlevania: Belmont’s Curse sur Switch (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
