@@ -195,6 +195,14 @@ DESCRIPTION:Sortie de Starship Troopers: Ultimate Bug War sur Switch 2
 END:VEVENT
 
 BEGIN:VEVENT
+UID:FinalFantasyXIVOnline@2026-08-04
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260804
+SUMMARY:🎮 Final Fantasy XIV Online
+DESCRIPTION:Sortie de Final Fantasy XIV Online sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:LiesofPCompleteEdition@2026-08-06
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260806
@@ -219,11 +227,27 @@ DESCRIPTION:Sortie de The Elder Scrolls IV: Oblivion Remastered sur Switch 2 (d�
 END:VEVENT
 
 BEGIN:VEVENT
+UID:Duskfade@2026-08-13
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260813
+SUMMARY:🎮 Duskfade
+DESCRIPTION:Sortie de Duskfade sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:TheWitchsBakery@2026-08-20
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260820
 SUMMARY:🎮 The Witch's Bakery 🧙‍♀️🍞
 DESCRIPTION:Sortie de The Witch's Bakery sur Switch, Switch 2 (Version physique disponible !)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:DayZCoolEdition@2026-08-20
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:🎮 DayZ Cool Edition
+DESCRIPTION:Sortie de DayZ Cool Edition sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -307,6 +331,14 @@ DESCRIPTION:Sortie de Orbitals sur Switch 2 (Version physique disponible !)
 END:VEVENT
 
 BEGIN:VEVENT
+UID:WoLongFallenDynastyCompleteEdition@2026-09-03
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260903
+SUMMARY:🎮 Wo Long: Fallen Dynasty Complete Edition
+DESCRIPTION:Sortie de Wo Long: Fallen Dynasty Complete Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:CoffeeTalkTokyo@2026-09-04
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260904
@@ -328,6 +360,14 @@ DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260904
 SUMMARY:🎮 Onimusha: Way of the Sword
 DESCRIPTION:Sortie de Onimusha: Way of the Sword sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:NBA2K27@2026-09-04
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+SUMMARY:🎮 NBA 2K27
+DESCRIPTION:Sortie de NBA 2K27 sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -520,6 +560,14 @@ DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260925
 SUMMARY:🎮 Onimusha: Way of the Sword 🗡️👻
 DESCRIPTION:Sortie de Onimusha: Way of the Sword sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:EASportsFC27@2026-09-25
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260925
+SUMMARY:🎮 EA Sports FC 27
+DESCRIPTION:Sortie de EA Sports FC 27 sur Switch, Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
