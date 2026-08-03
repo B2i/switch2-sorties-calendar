@@ -699,6 +699,14 @@ DESCRIPTION:Sortie de Castlevania: Belmont’s Curse sur Switch (détecté autom
 END:VEVENT
 
 BEGIN:VEVENT
+UID:TormentedSouls2@2026-10-15
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 Tormented Souls 2
+DESCRIPTION:Sortie de Tormented Souls 2 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:HollowKnightSilksong@2026-10-16
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
