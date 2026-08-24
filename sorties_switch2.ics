@@ -451,6 +451,14 @@ DESCRIPTION:Sortie de RuneScape: Dragonwilds sur Switch 2 (Dématérialisé)
 END:VEVENT
 
 BEGIN:VEVENT
+UID:DiabloIVAgeofHatredCollection@2026-09-15
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260915
+SUMMARY:🎮 Diablo IV: Age of Hatred Collection
+DESCRIPTION:Sortie de Diablo IV: Age of Hatred Collection sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:Absolum@2026-09-17
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260917
