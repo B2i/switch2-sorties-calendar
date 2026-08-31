@@ -963,6 +963,14 @@ DESCRIPTION:Sortie de Attack on Titan 3 sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
+UID:StageTour@2026-12-10
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎮 Stage Tour
+DESCRIPTION:Sortie de Stage Tour sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:SquirrelWithAGun@2026-12-31
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20261231
