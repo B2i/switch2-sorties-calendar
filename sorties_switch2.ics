@@ -507,6 +507,14 @@ DESCRIPTION:Sortie de Fire Emblem: Fortune's Weave sur Switch 2 (Version physiqu
 END:VEVENT
 
 BEGIN:VEVENT
+UID:FadingEcho@2026-09-17
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260917
+SUMMARY:🎮 Fading Echo
+DESCRIPTION:Sortie de Fading Echo sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:LayersOfFearFinalMasterpieceEdition@2026-09-18
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260918
@@ -643,6 +651,14 @@ DESCRIPTION:Sortie de Minecraft Dungeons II sur Switch, Switch 2 (Dématérialis
 END:VEVENT
 
 BEGIN:VEVENT
+UID:TheWitcher3WildHuntRemastered@2026-09-29
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260929
+SUMMARY:🎮 The Witcher 3: Wild Hunt – Remastered
+DESCRIPTION:Sortie de The Witcher 3: Wild Hunt – Remastered sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:HouseFlipper2SakuraDLC@2026-09-30
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20260930
@@ -771,6 +787,22 @@ DESCRIPTION:Sortie de Tormented Souls 2 sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
+UID:BlueysHappySnaps@2026-10-15
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 Bluey’s Happy Snaps
+DESCRIPTION:Sortie de Bluey’s Happy Snaps sur Switch, Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ItTakesTwoNintendoSwitch2Edition@2026-10-15
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:🎮 It Takes Two – Nintendo Switch 2 Edition
+DESCRIPTION:Sortie de It Takes Two – Nintendo Switch 2 Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:HollowKnightSilksong@2026-10-16
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261016
@@ -795,6 +827,30 @@ DESCRIPTION:Sortie de Tales of Eternia Remastered sur Switch, Switch 2 (Dématé
 END:VEVENT
 
 BEGIN:VEVENT
+UID:ResidentEvil2DeluxeEditionPlateformeSwitch2Datedesortie16octobre2026@2026-10-16
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🎮 Resident Evil 2: Deluxe Edition Plateforme : Switch 2 Date de sortie : 16 octobre 2026
+DESCRIPTION:Sortie de Resident Evil 2: Deluxe Edition Plateforme : Switch 2 Date de sortie : 16 octobre 2026 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ResidentEvil3@2026-10-16
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🎮 Resident Evil 3
+DESCRIPTION:Sortie de Resident Evil 3 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ResidentEvil4GoldEditionPlateformeSwitch2Datedesortie16octobre2026@2026-10-16
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:🎮 Resident Evil 4: Gold Edition Plateforme : Switch 2 Date de sortie : 16 octobre 2026
+DESCRIPTION:Sortie de Resident Evil 4: Gold Edition Plateforme : Switch 2 Date de sortie : 16 octobre 2026 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:CottonReboot@2026-10-22
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261022
@@ -816,6 +872,14 @@ DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261022
 SUMMARY:🎮 Nintendo Switch Sports Resort 🏖️⛳
 DESCRIPTION:Sortie de Nintendo Switch Sports Resort sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FatalFuryCityoftheWolvesPlateformeSwitch2Datedesortie22octobre2026@2026-10-22
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎮 Fatal Fury: City of the Wolves Plateforme : Switch 2 Date de sortie : 22 octobre 2026
+DESCRIPTION:Sortie de Fatal Fury: City of the Wolves Plateforme : Switch 2 Date de sortie : 22 octobre 2026 sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -891,11 +955,51 @@ DESCRIPTION:Sortie de Godzilla Destroy All Monsters Melee sur Switch 2 (Version 
 END:VEVENT
 
 BEGIN:VEVENT
+UID:GuardiansoftheGalaxyEncoreEdition@2026-11-05
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎮 Guardians of the Galaxy: Encore Edition
+DESCRIPTION:Sortie de Guardians of the Galaxy: Encore Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:StellarBlade@2026-11-05
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎮 Stellar Blade
+DESCRIPTION:Sortie de Stellar Blade sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TheLegendofZeldaOcarinaofTime2026@2026-11-05
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎮 The Legend of Zelda: Ocarina of Time (2026)
+DESCRIPTION:Sortie de The Legend of Zelda: Ocarina of Time (2026) sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:MetaphorReFantazio@2026-11-12
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261112
 SUMMARY:🎮 Metaphor: ReFantazio 🎭🌌
 DESCRIPTION:Sortie de Metaphor: ReFantazio sur Switch 2 (Dématérialisé)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Pikmin4NintendoSwitch2Edition@2026-11-12
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎮 Pikmin 4 – Nintendo Switch 2 Edition
+DESCRIPTION:Sortie de Pikmin 4 – Nintendo Switch 2 Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:SonicPicoParkPlateformesSwitchSwitch2Datedesortie12novembre2026@2026-11-12
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:🎮 Sonic Pico Park Plateformes : Switch Switch 2 Date de sortie : 12 novembre 2026
+DESCRIPTION:Sortie de Sonic Pico Park Plateformes : Switch Switch 2 Date de sortie : 12 novembre 2026 sur Switch, Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -920,6 +1024,14 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261130
 SUMMARY:🎮 Danganronpa 2×2 🔪🏝️
 DESCRIPTION:Sortie de Danganronpa 2×2 sur Switch 2
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HelaofMiceMagic@2026-12-01
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261201
+SUMMARY:🎮 Hela: of Mice & Magic
+DESCRIPTION:Sortie de Hela: of Mice & Magic sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -955,6 +1067,30 @@ DESCRIPTION:Sortie de DRAGON QUEST MONSTERS : Le royaume de Boisflétri sur Swit
 END:VEVENT
 
 BEGIN:VEVENT
+UID:EriksholmTheStolenDreamPlateformeSwitch2Datedesortie3dcembre2026@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 Eriksholm: The Stolen Dream Plateforme : Switch 2 Date de sortie : 3 décembre 2026
+DESCRIPTION:Sortie de Eriksholm: The Stolen Dream Plateforme : Switch 2 Date de sortie : 3 décembre 2026 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TheAscentUltimateEdition@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 The Ascent: Ultimate Edition
+DESCRIPTION:Sortie de The Ascent: Ultimate Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MonsterHunterWilds@2026-12-04
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261204
+SUMMARY:🎮 Monster Hunter Wilds
+DESCRIPTION:Sortie de Monster Hunter Wilds sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:AttackonTitan3@2026-12-10
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261210
@@ -968,6 +1104,14 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261210
 SUMMARY:🎮 Stage Tour
 DESCRIPTION:Sortie de Stage Tour sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ProfesseurLaytonetleNouveauMondevapeur@2026-12-10
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261210
+SUMMARY:🎮 Professeur Layton et le Nouveau Monde à vapeur
+DESCRIPTION:Sortie de Professeur Layton et le Nouveau Monde à vapeur sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1024,6 +1168,86 @@ DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20261231
 SUMMARY:🎮 Bluey's Happy Snaps – Deluxe 📸🐶
 DESCRIPTION:Sortie de Bluey's Happy Snaps – Deluxe sur Switch 2 (date approximative, fin d'année)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Danganronpa22PlateformesSwitchSwitch2Datedesortie14janvier2027@2027-01-14
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270114
+SUMMARY:🎮 Danganronpa 2×2 Plateformes : Switch Switch 2 Date de sortie : 14 janvier 2027
+DESCRIPTION:Sortie de Danganronpa 2×2 Plateformes : Switch Switch 2 Date de sortie : 14 janvier 2027 sur Switch, Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MetroidRavenous@2027-01-28
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎮 Metroid Ravenous
+DESCRIPTION:Sortie de Metroid Ravenous sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MuramasaRevenantBlades@2027-02-04
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270204
+SUMMARY:🎮 Muramasa: Revenant Blades
+DESCRIPTION:Sortie de Muramasa: Revenant Blades sur Switch, Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:TombRaiderLegacyofAtlantisPlateformeSwitch2Datedesortie12fvrier2027@2027-02-12
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270212
+SUMMARY:🎮 Tomb Raider: Legacy of Atlantis Plateforme : Switch 2 Date de sortie : 12 février 2027
+DESCRIPTION:Sortie de Tomb Raider: Legacy of Atlantis Plateforme : Switch 2 Date de sortie : 12 février 2027 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RomancingSaGa3DestiniesUnited@2027-02-16
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270216
+SUMMARY:🎮 Romancing SaGa 3: Destinies United
+DESCRIPTION:Sortie de Romancing SaGa 3: Destinies United sur Switch, Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:YuGiOhTagForceGXPlateformesSwitchSwitch2Datedesortie16fvrier2027@2027-02-16
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270216
+SUMMARY:🎮 Yu-Gi-Oh! Tag Force GX Plateformes : Switch Switch 2 Date de sortie : 16 février 2027
+DESCRIPTION:Sortie de Yu-Gi-Oh! Tag Force GX Plateformes : Switch Switch 2 Date de sortie : 16 février 2027 sur Switch, Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:HyruleWarriorsLreduFlauditionUltime@2027-02-25
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270225
+SUMMARY:🎮 Hyrule Warriors: L’Ère du Fléau – Édition Ultime
+DESCRIPTION:Sortie de Hyrule Warriors: L’Ère du Fléau – Édition Ultime sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:EternalAnimaPlateformeSwitch2Datedesortie4mars2027@2027-03-04
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎮 Eternal Anima Plateforme : Switch 2 Date de sortie : 4 mars 2027
+DESCRIPTION:Sortie de Eternal Anima Plateforme : Switch 2 Date de sortie : 4 mars 2027 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:FinalFantasyVIIREVELATION@2027-04-08
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270408
+SUMMARY:🎮 Final Fantasy VII REVELATION
+DESCRIPTION:Sortie de Final Fantasy VII REVELATION sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:Persona4Revival@2027-05-20
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270520
+SUMMARY:🎮 Persona 4 Revival
+DESCRIPTION:Sortie de Persona 4 Revival sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 END:VCALENDAR
