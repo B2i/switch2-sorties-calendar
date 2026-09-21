@@ -675,6 +675,14 @@ DESCRIPTION:Sortie de KONG: Survivor Instinct sur Switch
 END:VEVENT
 
 BEGIN:VEVENT
+UID:HouseFlipper2@2026-09-30
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 House Flipper 2
+DESCRIPTION:Sortie de House Flipper 2 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:DynastyWarriors3CompleteEdition@2026-10-01
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
@@ -1083,6 +1091,14 @@ DESCRIPTION:Sortie de The Ascent: Ultimate Edition sur Switch 2 (détecté autom
 END:VEVENT
 
 BEGIN:VEVENT
+UID:RaymanLegendsRetold@2026-12-03
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261203
+SUMMARY:🎮 Rayman Legends Retold
+DESCRIPTION:Sortie de Rayman Legends Retold sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:MonsterHunterWilds@2026-12-04
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261204
@@ -1232,6 +1248,22 @@ DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎮 Eternal Anima Plateforme : Switch 2 Date de sortie : 4 mars 2027
 DESCRIPTION:Sortie de Eternal Anima Plateforme : Switch 2 Date de sortie : 4 mars 2027 sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:EternalAnima@2027-03-04
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎮 Eternal Anima
+DESCRIPTION:Sortie de Eternal Anima sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:WoLong2WingsofEmber@2027-03-04
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270304
+SUMMARY:🎮 Wo Long 2: Wings of Ember
+DESCRIPTION:Sortie de Wo Long 2: Wings of Ember sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
