@@ -683,6 +683,22 @@ DESCRIPTION:Sortie de House Flipper 2 sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
+UID:LaTerreduMilieuLOmbredelaGuerreEditiondfinitive@2026-09-30
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 La Terre du Milieu : L’Ombre de la Guerre – Edition définitive
+DESCRIPTION:Sortie de La Terre du Milieu : L’Ombre de la Guerre – Edition définitive sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:LaTerreduMilieuLOmbreduMordorEditionGameoftheyear@2026-09-30
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20260930
+SUMMARY:🎮 La Terre du Milieu : L’Ombre du Mordor – Edition Game of the year
+DESCRIPTION:Sortie de La Terre du Milieu : L’Ombre du Mordor – Edition Game of the year sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:DynastyWarriors3CompleteEdition@2026-10-01
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261001
@@ -984,6 +1000,14 @@ DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261105
 SUMMARY:🎮 The Legend of Zelda: Ocarina of Time (2026)
 DESCRIPTION:Sortie de The Legend of Zelda: Ocarina of Time (2026) sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:MarvelsGuardiansoftheGalaxyEncoreEditionNintendoSwitch2@2026-11-05
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+SUMMARY:🎮 Marvel’s Guardians of the Galaxy – Encore Edition Nintendo Switch 2
+DESCRIPTION:Sortie de Marvel’s Guardians of the Galaxy – Encore Edition Nintendo Switch 2 sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
