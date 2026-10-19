@@ -947,6 +947,14 @@ DESCRIPTION:Sortie de Minecraft – Nintendo Switch 2 Edition sur Switch 2 (dét
 END:VEVENT
 
 BEGIN:VEVENT
+UID:CitiesSkylinesExpandedEdition@2026-10-28
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261028
+SUMMARY:🎮 Cities: Skylines – Expanded Edition
+DESCRIPTION:Sortie de Cities: Skylines – Expanded Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:SteinsGateReBoot@2026-10-29
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261029
@@ -1227,6 +1235,14 @@ DESCRIPTION:Sortie de Danganronpa 2×2 Plateformes : Switch Switch 2 Date de sor
 END:VEVENT
 
 BEGIN:VEVENT
+UID:ArizonaSunshine@2027-01-21
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎮 Arizona Sunshine
+DESCRIPTION:Sortie de Arizona Sunshine sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:MetroidRavenous@2027-01-28
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270128
@@ -1296,6 +1312,14 @@ DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270304
 SUMMARY:🎮 Wo Long 2: Wings of Ember
 DESCRIPTION:Sortie de Wo Long 2: Wings of Ember sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:007FirstLight@2027-03-18
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270318
+SUMMARY:🎮 007 First Light
+DESCRIPTION:Sortie de 007 First Light sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
