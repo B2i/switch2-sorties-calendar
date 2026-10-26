@@ -915,6 +915,14 @@ DESCRIPTION:Sortie de Fatal Fury: City of the Wolves Plateforme : Switch 2 Date 
 END:VEVENT
 
 BEGIN:VEVENT
+UID:HitmanAbsolutionNintendoSwitch2Edition@2026-10-22
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261022
+SUMMARY:🎮 Hitman: Absolution – Nintendo Switch 2 Edition
+DESCRIPTION:Sortie de Hitman: Absolution – Nintendo Switch 2 Edition sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
 UID:CallofDutyModernWarfare4@2026-10-23
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261023
@@ -1144,6 +1152,14 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261204
 SUMMARY:🎮 Monster Hunter Wilds
 DESCRIPTION:Sortie de Monster Hunter Wilds sur Switch 2 (détecté automatiquement)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:RidersRepublic@2026-12-09
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261209
+SUMMARY:🎮 Riders Republic
+DESCRIPTION:Sortie de Riders Republic sur Switch 2 (détecté automatiquement)
 END:VEVENT
 
 BEGIN:VEVENT
